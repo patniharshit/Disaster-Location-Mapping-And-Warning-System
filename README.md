@@ -26,3 +26,5 @@ We believe our solution can help government and disaster relief teams in followi
   * Seeing how different groups in the community are impacted.
   * Prioritizing the resources to save more lives.
   * By providing tactical and actionable information to disaster relief agencies.
+
+![impact](https://preview.ibb.co/hoLHYp/Machine-Learning-can-save-us-from-disasters-2.png)
