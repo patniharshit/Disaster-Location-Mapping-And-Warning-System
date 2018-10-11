@@ -1,5 +1,7 @@
 # Disaster-Location-Mapping-And-Warning-System
 
+Project proposal for Microsoft's Code Fun Do Plus Plus 2018
+
 ## Objective
 
 The objective of our project is to build a location tagged early warning system for disasters by analysing the posts on social media sites like Twitter.
