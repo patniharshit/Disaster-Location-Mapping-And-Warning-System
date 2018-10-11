@@ -17,7 +17,7 @@ streaming API.
 * Then using latitudes and longitudes of the tweet, the mapper plots the tweet to the world map.
 * When a large volume of tweets starts popping out from a small geo-location then the notifier detects that event, parses the tweets and sends the summarized report to disaster relief agencies as the warning.
 
-![architecture](https://imgur.com/4qYJpck)
+![architecture](https://image.ibb.co/ecui69/aidr.png)
 
 ## Expected Impact 
 
