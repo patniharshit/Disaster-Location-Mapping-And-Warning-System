@@ -16,9 +16,9 @@ For this purpose, the system continuously ingests data from social media sites l
 * The collector is responsible for data collection from  Twitter  using  the  Twitter
 streaming API. 
 * The collected tweets are then passed to the tagger, it is responsible for the classification of each individual tweet to one of the categories. The tagger is comprised of three modules:  feature extractor, learner, and classifier.
-* Then using latitudes and longitudes of the tweet, the mapper plots the tweet to the world map.
+* Then using latitudes and longitudes of the tweet, the mapper plots the tweet to the world map. Here is a demo image, where tweets are mapped to their geo-locations with different icons represent various categories of disaster.
 
-![tweet-map](https://image.ibb.co/dbhqop/codefundo2.png)
+![tweet-map](https://preview.ibb.co/gwy219/codefundo3.png)
 
 * When a large volume of tweets starts popping out from a small geo-location then the notifier detects that event, parses the tweets and sends the summarized report to disaster relief agencies as the warning.
 
