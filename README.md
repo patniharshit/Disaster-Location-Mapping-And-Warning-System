@@ -12,7 +12,7 @@ For this purpose, the system continuously ingests data from social media sites l
 
 ## Architecture and Implementation
 
-* It consists of five core components; **collector*, tagger, mapper, summarizer, notifier**.
+* It consists of five core components; **collector, tagger, mapper, summarizer, notifier**.
 * The collector is responsible for data collection from  Twitter  using  the  Twitter
 streaming API. 
 * The collected tweets are then passed to the tagger, it is responsible for the classification of each individual tweet to one of the categories. The tagger is comprised of three modules: feature extractor, learner, and classifier.
