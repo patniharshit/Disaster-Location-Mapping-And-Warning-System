@@ -6,6 +6,10 @@ Project proposal for Microsoft's Code Fun Do Plus Plus 2018
 
 The objective of our project is to build a location tagged **early warning system**, hosted as a **web-application**, for disasters by analysing the posts on social media sites like *Twitter*.
 
+## Motivation
+
+In the 21st century, Twitter has become the hub where breaking news appears first. The tweets by the victims and press have the first-hand information about what is happening at ground-zero. They are usually the first responders to any calamity or disaster. In this project we use these tweets to notify government of the impact of the disaster as it happens on the ground. Our project is crucial because the time taken by disaster relief agencies and government in getting to know the situation, analyzing it and identifying the most impacted area is very high. Lots of casualties can be reduced if the agencies have quick and accurate information about the most affected areas, where majority of the support infrastructure should be deployed. 
+
 ## Proposed Solution 
 
 For this purpose, the system continuously ingests data from social media sites like Twitter, processes it (i.e., using machine learning classification techniques), classifies it into one of the several categories (like damages, need food and resources, people stuck, casualties etc). We also use the geo tagged information from the tweets to identify the latitudes and longitudes on world map in real time. The volume of tweets originating from a particular region are analysed and if the number exceeds certain threshold then we predict a disaster, followed by notifying the relief teams and government about the location.
